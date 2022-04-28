@@ -16,3 +16,20 @@ section.cover .cover-main>p:last-child a{
     color: var(--theme-color,#fb8200);
     font-weight: 600;
 }
+
+.sidebar-nav > p{
+    text-align: center;
+}
+
+.logoSideBar{
+    width: 60%;
+}
+
+.logoSubSideBar{
+    width: 20%;
+}
+
+.markdown-section a {
+    color: var(--theme-color,#fb8200);
+    font-weight: 600;
+}

@@ -1,3 +1,7 @@
+![logo](/images/logo_fortil.png ':class=logoSideBar')
+
+![logo](/images/fortil_background_2.png ':class=logoSubSideBar')
+
 * Qu'est-ce que l'intéropérabilité ?
 
   * [Définition](interop/interop_definition.md)
