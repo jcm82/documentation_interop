@@ -1,4 +1,6 @@
-![logo](	https://jcm82.github.io/documentation_interop/images/logo_fortil.png ':class=logoSideBar')
+<p><a href="/" class="navImageLink">
+  <img src="https://jcm82.github.io/documentation_interop/images/logo_fortil.png" data-origin="https://jcm82.github.io/documentation_interop/images/logo_fortil.png" alt="logo" class="logoSideBar">
+</a></p>
 
 ![logo](	https://jcm82.github.io/documentation_interop/images/fortil_background_2.png ':class=logoSubSideBar')
 
