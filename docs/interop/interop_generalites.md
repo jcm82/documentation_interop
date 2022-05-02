@@ -1,3 +1,26 @@
 # Généralités
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Il y a plusieurs moyens de faire communiquer et échanger des informations entre plusieurs logiciels : la Compatibilité, le Standard de fait et l'Intéropérabilité.
+
+## Compatibilité
+
+Quand 2 systèmes différents sont capables de fonctionner directement ensemble sans besoin de protocoles ou d'interfaces. On parle alors de Compatibilité.
+
+![logo](	../images/compatibility.png ':class=imageContent')
+
+## Standard de fait
+
+Lorsque plusieurs logiciels utilisent un système propriétaire, on parle alors de Standard de fait.
+
+![logo](	../images/standarddefait.png ':class=imageContent')
+
+## Intéropérabilité
+
+Lorsque plusieurs logiciels utilisent un standard ouvert pour communiquer où chacun peut savoir pourquoi et comment, on parle alors d'intéropérabilité.
+
+![logo](	../images/interoperability2.png ':class=imageContent')
+
+<div class="navBlock">
+	<a href="#/interop/interop_definition" class="navContent">&lt;- Retour</a>
+	<a href="#/interop/interop_interets" class="navContent">Suivant-&gt;</a>
+</div>

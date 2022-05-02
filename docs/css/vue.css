@@ -33,3 +33,41 @@ section.cover .cover-main>p:last-child a{
     color: var(--theme-color,#fb8200);
     font-weight: 600;
 }
+
+.imageContent { 
+    display: block;
+    margin: auto;
+    padding: 3em;
+}
+
+.navContent{
+    text-decoration: none;
+}
+
+.navContent:hover{
+    color:#f6a753;
+}
+
+.markdown-section h2{
+    border-bottom: 1px solid var(--theme-color,#e3e3e3);
+    padding-bottom: 0.5em;
+}
+
+.markdown-section h1 a:hover, .markdown-section h2 a:hover{
+    text-decoration: none;
+}
+
+.markdown-section h1 a:hover span, .markdown-section h2 a:hover span{
+    color:#f6a753;
+}
+
+.sidebar ul li a:hover{
+    text-decoration: none;
+    color:#f6a753;
+}
+
+
+.navBlock{
+    display: flex;
+    justify-content: space-between;
+}

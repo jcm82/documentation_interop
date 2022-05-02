@@ -1,6 +1,6 @@
-![logo](/images/logo_fortil.png ':class=logoSideBar')
+![logo](	https://jcm82.github.io/documentation_interop/images/logo_fortil.png ':class=logoSideBar')
 
-![logo](/images/fortil_background_2.png ':class=logoSubSideBar')
+![logo](	https://jcm82.github.io/documentation_interop/images/fortil_background_2.png ':class=logoSubSideBar')
 
 * Qu'est-ce que l'intéropérabilité ?
 
